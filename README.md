@@ -11,7 +11,11 @@ U pregledniku otvoriti http://127.0.0.1:3000
 
 # Upotreba
 Aplikacija pri pokretanju otvara stranicu dobrodošlice
-Napravljena je schema za novi objekt zvan `Projects` :)
+
+Napravljena je schema za novi objekt zvan `Projects`
+
 Pristupa im se sa rutom http://127.0.0.1:3000/blobs
+
 Novi objekt se dodaje sa http://127.0.0.1:3000/blobs/new 
+
 Nakon unosa vodi vas na index stranicu gdje imate `Show`, `Edit` ili `Delete` 
